@@ -16,4 +16,4 @@
 <br/><br/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Danial-Alizdh&theme=merko&border_radius=5.7&short_numbers=true" alt="GitHub Streak" /></a><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Alizdh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Alizdh&show_icons=true&theme=gruvbox&&langs_count=10&layout=compact)]<br/>
