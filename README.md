@@ -17,5 +17,5 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Danial-Alizdh&theme=merko&border_radius=5.7&short_numbers=true" alt="GitHub Streak" /></a><br/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Alizdh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"> -->
 <a href="https://github.com/Danial-Alizdh/Danial-Alizdh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Alizdh&show_icons=true&theme=gruvbox&langs_count=10&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Alizdh&show_icons=true&theme=merko&langs_count=20&layout=compact&count_private=true" alt="Top Langs">
 </a><br/>
