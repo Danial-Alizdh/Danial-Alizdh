@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danial Alizadeh</h1>
 <h3 align="center">I'm a software engineering master's degree graduate from Tehran Polytechnic, and I work on full-stack projects and some AI papers.</h3>
 
-- 🔭 I’m currently working on **Glaucoma Detection and Sleep Staging**
+- 🔭 I’m currently working on **a new paper and an android application.**
 
-- 🌱 I’m currently learning **more ML and AI-frameworks.**
+- 🌱 I’m currently learning **more ML and AI-frameworks and Flutter.**
 
 - 📫 How to reach me **dcodingman@gmail.com**
 
